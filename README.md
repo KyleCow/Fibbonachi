@@ -1,2 +1,2 @@
 # Fibbonachi
-infinate fibbonachi
+Infinate Fibbonachi
